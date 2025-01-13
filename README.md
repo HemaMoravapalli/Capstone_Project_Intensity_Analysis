@@ -271,7 +271,7 @@ Finally, **Support Vector Classifier** is the best choice for this task, with **
 ### Instructions to Use the Text Intensity Analyzer App
 
 - **Access the Application:**
-Click on the link to the hosted Streamlit app - https://capstoneprojectintensityanalysisapp-upgrad.streamlit.app/.
+Click on the link to the hosted Streamlit app - [https://capstoneprojectintensityanalysisapp-upgrad.streamlit.app/](https://capstoneprojectintensityanalysisapp-upgrad.streamlit.app/).
 The app will open in your browser.
 
 - **Enter the Text:**
