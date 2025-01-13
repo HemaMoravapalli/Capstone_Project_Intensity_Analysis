@@ -9,7 +9,7 @@ Original file is located at
 # Installing Streamlit
 # !pip install streamlit --quiet
 
-"""Creating app.py file"""
+# Creating app.py file
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
