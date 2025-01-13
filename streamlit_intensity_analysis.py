@@ -29,8 +29,8 @@ stop_words.remove('not')
 stop_words.remove('but')
 
 # Load trained model and vectorizer
-model = joblib.load("Best_Tuned_Augmented_SVC_model.pkl")
-tfidf_vectorizer = joblib.load("tfidf_vectorizer.pkl")
+model = joblib.load("Models/Best_Tuned_Augmented_SVC_model.pkl")
+tfidf_vectorizer = joblib.load("Models/tfidf_vectorizer.pkl")
 
 # Function to clean text
 def clean_content(text):
